@@ -1,0 +1,63 @@
+*{
+    width: auto;
+    height: auto;
+}
+body, html {
+    background-color: #0ffff8 !important;
+    color:#fe643a !important ;
+}
+
+
+footer{
+    margin-top: 15% !important;
+    text-align: justify !important;
+    text-size-adjust: 5px;
+    color: #74777c;
+    background-color:#001d36;
+    text-align: justify;
+    padding: auto;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+
+b{
+    color: #c50000;
+}
+
+.navbar {
+    background-color:#00e5ff !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+    color: #ADD8E6;
+}
+
+.navbar .dropdown-menu {
+    background-color: #1793aa !important;
+}
+
+.navbar .dropdown-item:hover {
+    color: #ADD8E6;
+    background-color: #001d36;
+}
+
+.navbar, .carousel {
+    width: 100vw !important;
+}
+
+.carousel .carousel-item img {
+    width: 100% !important;
+}
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+    color:#111b26 !important; 
+}
+
